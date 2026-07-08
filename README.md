@@ -21,9 +21,9 @@ I enhanced the dataset by creating new, meaningful metrics. By calculating the '
 I developed several visualizations to communicate complex trends effectively. 
 * **Stock Price Trend & Moving Averages**: This chart overlays the 30-day moving average against the actual closing price, helping stakeholders distinguish between short-term noise and long-term direction.
  ![Stock Closing Price Trend](PYTHON%202.png)
- **Daily Percentage Change Analysis**: This plot highlights market volatility, showing days of extreme gain or loss.
+* **Daily Percentage Change Analysis**: This plot highlights market volatility, showing days of extreme gain or loss.
  ![Daily Returns Analysis](PYTHON%203.png)
- **Volume Distribution**: This visualizes the distribution of trading volume, providing insight into the market activity levels over time.
+* **Volume Distribution**: This visualizes the distribution of trading volume, providing insight into the market activity levels over time.
  ![Distribution of Trading Volume](PYTHON%201.png)
 
 ## 7. Key Findings and Conclusions
